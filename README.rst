@@ -2,8 +2,7 @@ Compiled_python
 ==================
 
 
-This is a repository for examples in how to use Cython for different applications. The aim of this repository is to store 
-examples of Python compiled code using Cython_. 
+The aim of this repository is to store examples to compile Python code using Cython_ for performace improvement. 
 
 
 .. _Cython: https://cython.org/
