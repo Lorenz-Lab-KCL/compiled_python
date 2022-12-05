@@ -6,8 +6,7 @@ The aim of this repository is to store examples to compile Python code using Cyt
 
 1. **fib_py.py:** This file contains a looped version of the Fibonacci problem.
 
-2. **fib_c_annoted.pyx:** Cython annotated file as an accelerated version of the
-                   previous code.
+2. **fib_c_annoted.pyx:** Cython annotated file as an accelerated version of the previous code.
 
 3. **setup.py:** This file contains the needed commands to compile the previous
                  file.
