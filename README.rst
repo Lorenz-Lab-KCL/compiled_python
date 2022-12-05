@@ -28,11 +28,15 @@ To test the code and compare with the only Python version, one can type
 
 where **NUMBER** is a integer to computhe the Fibonacci number. For example:
 
-.. code-block: bash
+.. code_block:: bash
 
    python test.py 35
  
- 
+The expected output should be something like:
 
+.. code_block:: bash
+
+   Pure python: answer = 5702887, time = 0.1646157400100492, speedup = 1.0
+   Cython double variables: answer = 5702887.0, time = 0.007783060020301491, speedup = 21.15051658096715
 
 .. _Cython: https://cython.org/
