@@ -26,7 +26,13 @@ To test the code and compare with the only Python version, one can type
 
 2. python test.py NUMBER
 
-where **NUMBER** is a integer to computhe the Fibonacci number.
+where **NUMBER** is a integer to computhe the Fibonacci number. For example:
+
+.. code-block: bash
+
+   python test.py 35
+ 
+ 
 
 
 .. _Cython: https://cython.org/
